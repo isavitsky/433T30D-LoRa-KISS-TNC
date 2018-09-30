@@ -10,3 +10,5 @@ More details are on Wiki.
 
 All hardware manipulations are on your own risk!
 
+[![PPP](https://img.youtube.com/vi/K8dcybl4tY4/0.jpg)](https://www.youtube.com/watch?v=K8dcybl4tY4)
+
